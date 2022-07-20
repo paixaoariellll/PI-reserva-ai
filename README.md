@@ -11,7 +11,7 @@ Esta aplicação web utiliza as tecnologias a seguir:
 Para clonar a aplicação em seu computador, basta ir ao terminal do mesmo e utilizar o seguinte comando:
 
 ```console
-git clone https://github.com/machado-joao/pi.git
+git clone https://github.com/paixaoariellll/pi.git
 ```
 
 Após clonado, utilize o comando abaixo para adentrar a pasta do projeto:
